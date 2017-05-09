@@ -4,9 +4,16 @@
     >
 
     <group android:checkableBehavior="single">
+
         <item
             android:id="@+id/eventos"
             android:title="Eventos"
+            >
+            <!--android:icon=""-->
+        </item>
+        <item
+            android:id="@+id/inicio"
+            android:title="Inicio"
             >
             <!--android:icon=""-->
         </item>

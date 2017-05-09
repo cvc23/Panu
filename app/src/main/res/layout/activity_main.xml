@@ -5,11 +5,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/mainActivtyDrawer"
     tools:context="com.dg.panu.MainActivity">
 
 
     <android.support.design.widget.NavigationView
-        android:background="@color/red"
+        android:background="@mipmap/menubackground"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
